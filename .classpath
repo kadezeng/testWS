@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/dom4j"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/software/eclipse-jee-oxygen-2-win32-x86_64/eclipse/plugins/org.apache.axis_1.4.0.v201411182030/lib/axis.jar" sourcepath="D:/software/JAVA development/axis2-1.7.7-src.zip"/>
+	<classpathentry kind="lib" path="D:/software/eclipse-jee-oxygen-2-win32-x86_64/eclipse/plugins/org.apache.commons.discovery_0.2.0.v201004190315/lib/commons-discovery-0.2.jar"/>
+	<classpathentry kind="lib" path="D:/software/eclipse-jee-oxygen-2-win32-x86_64/eclipse/plugins/javax.xml.rpc_1.1.0.v201209140446/lib/jaxrpc.jar"/>
+	<classpathentry kind="lib" path="D:/software/eclipse-jee-oxygen-2-win32-x86_64/eclipse/plugins/javax.xml.soap_1.2.0.v201005080501/lib/saaj.jar"/>
+	<classpathentry kind="lib" path="D:/software/eclipse-jee-oxygen-2-win32-x86_64/eclipse/plugins/javax.wsdl_1.6.2.v201012040545.jar"/>
+	<classpathentry kind="lib" path="D:/software/eclipse-jee-oxygen-2-win32-x86_64/eclipse/plugins/org.apache.commons.logging_1.1.1.v201101211721.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/poi-3.17.jar" sourcepath="D:/software/JAVA development/poi-src-3.17-20170915.zip"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/poi-examples-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/poi-excelant-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/poi-ooxml-schemas-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/poi-scratchpad-3.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/poi-bin-3.17-20170915/poi-3.17/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/spring-framework-4.3.4.RELEASE-dist/spring-framework-4.3.4.RELEASE/libs/spring-web-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/spring-framework-4.3.4.RELEASE-dist/spring-framework-4.3.4.RELEASE/libs/spring-core-4.3.4.RELEASE.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/java-json-schema.jar/java-json-schema.jar"/>
+	<classpathentry kind="lib" path="D:/software/JAVA development/commons-io-2.6-bin/commons-io-2.6/commons-io-2.6.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
